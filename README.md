@@ -110,4 +110,4 @@ ui/                  界面（PySide6 / Qt Widgets）
 
 ## License
 
-未指定 License —— 保留所有权利。如需开源，请自行添加。
+本项目采用 [MIT License](LICENSE) 开源。
