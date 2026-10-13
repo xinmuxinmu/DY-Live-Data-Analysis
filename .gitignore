@@ -1,0 +1,27 @@
+# ---- Python 编译产物 ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# ---- 运行期数据（首次启动自动生成）----
+软件数据/
+
+# ---- ffmpeg 二进制（仓库不附带，见 README）----
+ffmpeg/
+JHlib/ffmpeg/
+
+# ---- 日志 ----
+*.log
+
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
